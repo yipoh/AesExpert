@@ -37,4 +37,21 @@
 
 <h5 align="center"> If you like this work, please give us a star ⭐ on GitHub.  </h2>
 
+
+
+
+</div>
+
+ <br>
+
+</h5>
+</p> 
+<p align="center">
+    <img src="figs/teaserFig.png"/>
+<p>
+    <p align="center">Performance of the proposed AesExpert on various aesthetic perception dimensions, in comparison with the most advanced GPT-4V and Gemini-Pro-Vision, as well as the open-sourced LLaVA-1.5-13B.</p>
+    </p> 
+     </p> 
+     </p> 
+
 Data is coming soon...
