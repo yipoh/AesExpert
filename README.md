@@ -54,4 +54,6 @@
      </p> 
      </p> 
 
-Data is coming soon...
+## News
+- [2024/04/16] 🚩 Data is coming soon...
+
