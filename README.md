@@ -57,6 +57,45 @@
 ## News
 - [2024/07/16] We have released AesMMIT(LLaVA-v1.5-7b) on [BaiduYun](https://pan.baidu.com/s/13yOBdLySG3U7kf-YgbTofw?pwd=25rx ) and [HuggingFace](https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325)! Check it out!🤗🤗🤗
 
+## Quick Start
+
+### LLaVA-v1.5
+
+#### Install LLaVA.
+
+```shell
+git clone https://github.com/haotian-liu/LLaVA.git
+cd LLaVA
+pip install -e .
+```
+
+#### Simple Interactive Demos.
+
+*See the codes and scripts below.*
+
+<details>
+<summary>Example Code (Single Query)</summary>
+    
+```python
+from llava.mm_utils import get_model_name_from_path
+from llava.eval.run_llava import eval_model
+model_path = "qyuan/AesMMIT_LLaVA_v1.5_7b_240325" 
+prompt = "Describe the aesthetic experience of this image in detail."
+image_file = "figs/demo1.jpg"
+args = type('Args', (), {
+    "model_path": model_path,
+    "model_base": None,
+    "model_name": get_model_name_from_path(model_path),
+    "query": prompt,
+    "conv_mode": None,
+    "image_file": image_file,
+    "sep": ",",
+})()
+eval_model(args)
+```
+</details>
+
+
 ## Acknowledgement
 We thank [Teo Wu](https://github.com/teowu) and [Zicheng Zhang](https://github.com/zzc-1998) for their awesome works [Q-Future](https://github.com/Q-Future).
 
