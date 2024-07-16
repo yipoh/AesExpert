@@ -57,3 +57,6 @@
 ## News
 - [2024/07/16] We have released AesMMIT(LLaVA-v1.5-7b) on [BaiduYun](https://pan.baidu.com/s/13yOBdLySG3U7kf-YgbTofw?pwd=25rx ) and [HuggingFace](https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325)! Check it out!🤗🤗🤗
 
+## Acknowledgement
+We thank [Teo Wu](https://github.com/teowu) and [Zicheng Zhang](https://github.com/zzc-1998) for their awesome works [Q-Future](https://github.com/Q-Future).
+
