@@ -3,6 +3,7 @@
  <div>
     <a href="https://github.com/yipoh/AesExpert"><img src="https://img.shields.io/github/stars/yipoh/AesExpert"/></a>
     <a href="https://arxiv.org/abs/2404.09624"><img src="https://img.shields.io/badge/Arxiv-2404:09624-red"/></a>
+    <a href="https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Release-green"></a>
     <a href="https://pan.baidu.com/s/15vRoUcXBZodVWwkvfEJa9Q?pwd=h9vn"><img src="https://img.shields.io/badge/BaiduYun%20-Model%20Release-blue"></a>
 
    </div>
@@ -54,5 +55,5 @@
      </p> 
 
 ## News
-- [2024/04/16] 🚩 Data is coming soon...
+- [2024/07/16] We released AesMMIT(LLaVA-v1.5-7b) on [BaiduYun](https://pan.baidu.com/s/13yOBdLySG3U7kf-YgbTofw?pwd=25rx ) and [Huggingface](https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325)! Check it out!🤗🤗🤗
 
