@@ -32,7 +32,7 @@ _Let MLLM perceive image aesthetics like humans. Come and use it!_
           Extensive experiments demonstrate that the proposed AesExpert models deliver significantly better aesthetic perception performances than the state-of-the-art MLLMs, including the most advanced GPT-4V and Gemini-Pro-Vision.</p>
 
 ## News
-- [2024/07/16] We have released AesMMIT(LLaVA-v1.5-7b) on [BaiduYun](https://pan.baidu.com/s/13yOBdLySG3U7kf-YgbTofw?pwd=25rx ) and [HuggingFace](https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325)! Check it out!🤗🤗🤗
+- [2024/07/16] We have released AesExpert (LLaVA-v1.5-7b) on [BaiduYun](https://pan.baidu.com/s/13yOBdLySG3U7kf-YgbTofw?pwd=25rx ) and [HuggingFace](https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325)! Check it out!🤗🤗🤗
 
 ## Quick Start
 
