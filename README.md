@@ -77,3 +77,17 @@ eval_model(args)
 ## Acknowledgement
 We thank [Teo Wu](https://github.com/teowu) and [Zicheng Zhang](https://github.com/zzc-1998) for their awesome works [Q-Future](https://github.com/Q-Future).
 
+## Citation
+
+If you find our work interesting, please feel free to cite our paper:
+
+```bibtex
+@article{AesExpert,
+    title={AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception},
+    author={Yipo Huang and Xiangfei Sheng and Zhichao Yang and Quan Yuan and Zhichao Duan and Pengfei Chen and Leida Li and Weisi Lin and Guangming Shi},
+   journal={arXiv:2404.09624},
+    year={2024},
+}
+```
+
+
