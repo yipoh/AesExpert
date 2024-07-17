@@ -1,6 +1,6 @@
 <h1>AesExpert </h1>
 
-_Let MLLM perceive image aesthetics like humans. Try it now!!_
+_Let MLLM perceive image aesthetics like humans. Try it now!_
     
  <div>
     <a href="https://github.com/yipoh/AesExpert"><img src="https://img.shields.io/github/stars/yipoh/AesExpert"/></a>
