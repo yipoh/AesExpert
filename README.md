@@ -8,6 +8,8 @@ _Let MLLM perceive image aesthetics like humans. Try it now!_
     <a href="https://arxiv.org/abs/2404.09624"><img src="https://img.shields.io/badge/Arxiv-2404:09624-red"/></a>
     <a href="https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Release-green"></a>
     <a href="https://pan.baidu.com/s/15vRoUcXBZodVWwkvfEJa9Q?pwd=h9vn"><img src="https://img.shields.io/badge/BaiduYun%20-Model%20Release-blue"></a>
+    <a href="https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset%20Release-green"></a>
+    <a href="https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm"><img src="https://img.shields.io/badge/BaiduYun%20-Dataset%20Release-blue"></a>
     <a href="https://fb3a-113-200-174-24.ngrok-free.app/"><img src="https://img.shields.io/badge/Chatbot%20-AesExpert-yellow"></a>
 
    </div>
