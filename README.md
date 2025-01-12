@@ -8,7 +8,7 @@ _Let MLLM perceive image aesthetics like humans. Try it now!_
     <a href="https://arxiv.org/abs/2404.09624"><img src="https://img.shields.io/badge/Arxiv-2404:09624-red"/></a>
     <a href="https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Release-green"></a>
     <a href="https://pan.baidu.com/s/15vRoUcXBZodVWwkvfEJa9Q?pwd=h9vn"><img src="https://img.shields.io/badge/BaiduYun%20-Model%20Release-green"></a>
-    <a href="https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset%20Release-blue"></a>
+    <a href="https://huggingface.co/datasets/YiPo/AesMMIT/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset%20Release-blue"></a>
     <a href="https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm"><img src="https://img.shields.io/badge/BaiduYun%20-Dataset%20Release-blue"></a>
 
 
@@ -36,7 +36,7 @@ _Let MLLM perceive image aesthetics like humans. Try it now!_
           Extensive experiments demonstrate that the proposed AesExpert models deliver significantly better aesthetic perception performances than the state-of-the-art MLLMs, including the most advanced GPT-4V and Gemini-Pro-Vision.</p>
 
 ## News
-- [2025/01/12] We have released AesMMIT dataset on [BaiduYun](https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm) and [HuggingFace](https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm)! 🤗🤗🤗
+- [2025/01/12] We have released AesMMIT dataset on [BaiduYun](https://pan.baidu.com/s/1QL547GVxzL9VbPJYtpK8OA?pwd=aesm) and [HuggingFace](https://huggingface.co/datasets/YiPo/AesMMIT/tree/main)! 🤗🤗🤗
 - [2024/07/20] Welcome to our [Project Page](https://yipoh.github.io/aes-expert/)! 🔥🔥🔥
 - [2024/07/16] We have released AesExpert (LLaVA-v1.5-7b) on [BaiduYun](https://pan.baidu.com/s/13yOBdLySG3U7kf-YgbTofw?pwd=25rx ) and [HuggingFace](https://huggingface.co/qyuan/AesMMIT_LLaVA_v1.5_7b_240325)! Check it out!🤗🤗🤗
 
