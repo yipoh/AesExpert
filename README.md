@@ -1,6 +1,6 @@
 <h1>AesExpert </h1>
 
-_Let MLLM perceive image aesthetics like humans. Try it now!_
+_Let MLLM understand image aesthetics like humans. Try it now!_
 
 
  <div>
